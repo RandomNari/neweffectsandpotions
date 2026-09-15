@@ -21,4 +21,8 @@ public class ModEffects implements ModInitializer {
     public void onInitialize() {
 
     }
+    public static void initialize()
+    {
+
+    }
 }
