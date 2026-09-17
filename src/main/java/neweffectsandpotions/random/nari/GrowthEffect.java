@@ -26,7 +26,7 @@ public class GrowthEffect extends MobEffect {
             Player player = (Player) entity;
 
             AttributeInstance scale = player.getAttributes().getInstance(Attributes.SCALE);
-            scale.setBaseValue(2*amplifier);
+            scale.setBaseValue(2*(amplifier+1));
 
         }
 

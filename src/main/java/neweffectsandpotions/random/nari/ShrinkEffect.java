@@ -26,7 +26,7 @@ public class ShrinkEffect extends MobEffect {
             Player player = (Player) entity;
 
             AttributeInstance scale = player.getAttributes().getInstance(Attributes.SCALE);
-            scale.setBaseValue(0.5/amplifier);
+            scale.setBaseValue(0.5/(amplifier+1));
         }
         return true;
     }
