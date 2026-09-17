@@ -16,12 +16,13 @@ public class LivingEntityMixin {
 
     @Inject(at = @At("HEAD"), method = "onClimbable", cancellable = true)
 	public void init(CallbackInfoReturnable<Boolean> cir) {
-        if((Object)this instanceof Player player){
-
-		if(player.hasEffect(ModEffects.STICKY))
+        if((Object)this instanceof Player player)
         {
-        cir.setReturnValue(true);
+		if(player.hasEffect(ModEffects.STICKY)&&player.horizontalCollision)
+        {
+            cir.setReturnValue(true);
         }
+
         }
 	}
 }
