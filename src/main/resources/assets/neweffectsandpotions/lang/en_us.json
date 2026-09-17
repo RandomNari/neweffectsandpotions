@@ -1,0 +1,25 @@
+{
+  "effect.neweffectsandpotions.shrink": "Shrink",
+  "effect.neweffectsandpotions.growth": "Growth",
+  "effect.neweffectsandpotions.bounce": "Bounce",
+  "effect.neweffectsandpotions.sticky": "Sticky",
+  "effect.neweffectsandpotions.flight": "Flight",
+  "effect.neweffectsandpotions.cotz": "Curse of the Zombie",
+  "item.minecraft.potion.effect.flight": "Flight",
+  "item.minecraft.potion.effect.flight_long": "Flight",
+  "item.minecraft.potion.effect.bounce": "Bounce",
+  "item.minecraft.potion.effect.bounce_long": "Bounce",
+  "item.minecraft.potion.effect.sticky": "Sticky",
+  "item.minecraft.potion.effect.sticky_long": "Sticky",
+  "item.minecraft.potion.effect.curse_of_the_zombie": "Curse Of The Zombie",
+  "item.minecraft.potion.effect.curse_of_the_zombie_long": "Curse Of The Zombie",
+  "item.minecraft.potion.effect.shrink": "Shrink",
+  "item.minecraft.potion.effect.shrink_1": "Shrink",
+  "item.minecraft.potion.effect.shrink_0_long": "Shrink",
+  "item.minecraft.potion.effect.shrink_1_long": "Shrink",
+  "item.minecraft.potion.effect.growth": "Growth",
+  "item.minecraft.potion.effect.growth_1": "Growth",
+  "item.minecraft.potion.effect.growth_0_long": "Growth",
+  "item.minecraft.potion.effect.growth_1_long": "Growth"
+
+}
