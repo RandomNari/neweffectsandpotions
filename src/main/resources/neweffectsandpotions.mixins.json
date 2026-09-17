@@ -3,7 +3,7 @@
 	"package": "neweffectsandpotions.random.nari.mixin",
 	"compatibilityLevel": "JAVA_25",
 	"mixins": [
-		"ExampleMixin"
+      "LivingEntityMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
