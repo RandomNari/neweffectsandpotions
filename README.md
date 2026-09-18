@@ -40,7 +40,7 @@ Slimeball -> Bounce
 <br>
 String -> Sticky
 <br>**
-#### Where to download the mod (Links)
+## Where to download the mod (Links)
 
 **Modrint:** https://modrinth.com/project/new-potions-and-effects
 <br>
