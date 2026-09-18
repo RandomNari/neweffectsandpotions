@@ -14,7 +14,7 @@ import org.apache.logging.log4j.core.jmx.Server;
 public class FlightEffect extends MobEffect {
     protected FlightEffect ()
     {
-        super(MobEffectCategory.BENEFICIAL,0x1);
+        super(MobEffectCategory.BENEFICIAL,0xc2d6d6);
     }
     @Override
     public boolean shouldApplyEffectTickThisTick(int duration, int amplifier) {

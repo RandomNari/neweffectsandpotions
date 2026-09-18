@@ -12,7 +12,7 @@ import net.minecraft.world.phys.Vec3;
 public class StickyEffect extends MobEffect {
     protected StickyEffect()
     {
-        super(MobEffectCategory.BENEFICIAL,0x1);
+        super(MobEffectCategory.BENEFICIAL,0x5c8a8a);
 
     }
     @Override

@@ -9,7 +9,7 @@ import net.minecraft.world.entity.LivingEntity;
 //Cotz short for Curse of the zombie
 public class CotzEffect extends MobEffect {
     protected CotzEffect(){
-        super(MobEffectCategory.HARMFUL, 0xe9b8b3);
+        super(MobEffectCategory.HARMFUL, 0xe65c00);
     }
     @Override
     public boolean shouldApplyEffectTickThisTick(int duration, int amplifier) {

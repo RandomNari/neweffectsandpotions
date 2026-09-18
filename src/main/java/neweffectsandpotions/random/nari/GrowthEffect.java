@@ -12,7 +12,7 @@ import net.minecraft.world.entity.player.Player;
 public class GrowthEffect extends MobEffect {
     protected GrowthEffect()
     {
-        super(MobEffectCategory.BENEFICIAL,0x1);
+        super(MobEffectCategory.BENEFICIAL,0xb30000);
     }
     @Override
     public boolean shouldApplyEffectTickThisTick(int duration, int amplifier) {

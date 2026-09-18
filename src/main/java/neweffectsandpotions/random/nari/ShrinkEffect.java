@@ -12,7 +12,7 @@ import net.minecraft.world.entity.player.Player;
 public class ShrinkEffect extends MobEffect {
     protected ShrinkEffect()
     {
-        super(MobEffectCategory.BENEFICIAL,0x1);
+        super(MobEffectCategory.BENEFICIAL,0x0033cc);
     }
     @Override
     public boolean shouldApplyEffectTickThisTick(int duration, int amplifier) {

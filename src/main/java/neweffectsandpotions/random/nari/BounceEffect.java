@@ -12,7 +12,7 @@ import net.minecraft.world.entity.player.Player;
 public class BounceEffect extends MobEffect {
     protected BounceEffect()
     {
-        super(MobEffectCategory.BENEFICIAL,0xe9b8b3);
+        super(MobEffectCategory.BENEFICIAL,0x00FF00);
     }
     @Override
     public boolean shouldApplyEffectTickThisTick(int duration, int amplifier) {
