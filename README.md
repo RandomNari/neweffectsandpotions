@@ -7,9 +7,10 @@ This is a Minecraft Mod made for a HackClub event that adds new effects to Minec
 **This Mod adds 6 new Effects: Shrink, Growth, Bounce, Curse of the Zombie, Flight and Sticky**
 
 **Shrink ->** shrink a player down (1 block high with Shrink I and 0,5 blocks high with Shrink II)<br>
-![ShrinkEffect](https://cdn.modrinth.com/data/cached_images/cebf0b93a32cd9b44c457cc7c9f564ae16f4367e_0.webp)
+![Shrink effect](https://cdn.modrinth.com/data/cached_images/17737f87fa1dcc467dfeccfe71bfc9754cee5ed6.jpeg)
+
 **Growth ->** make a player get bigger (4 blocks hight with Growth I and 8 blocks high with Growth II)
-![GrowthEffect](https://cdn.modrinth.com/data/cached_images/a06e6477b7954fd2026fd58194cd5da4e616eae7_0.webp)
+![Growth effect](https://cdn.modrinth.com/data/cached_images/2e466d947f925a11b3e930bf866e8e00bbb221ab.jpeg)
 **Curse of the zombie ->** causes the player to burn in sunlight
 ![CurseOfTheZombieEffect](https://cdn.modrinth.com/data/cached_images/8d7d094058e69583769957bd05890415655d8ea9_0.webp)
 **Sticky ->** makes the player able to climb on everything like a spider
