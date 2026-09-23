@@ -1,6 +1,6 @@
 # New Effects and Potions
 
-This is a Minecraft Mod made for a HackClub event that adds new effects to Minecraft and corresponding potions and arrows.
+This is a Minecraft Mod that works for fabric 26.2 that was made for a HackClub event that adds new effects to Minecraft and corresponding potions and arrows.
 
 ## Description
 
