@@ -43,7 +43,9 @@ String -> Sticky
 <br>**
 ## Where to download the mod 
 <br>
-**Curseforge:** https://www.curseforge.com/minecraft/mc-mods/new-potions-and-effects
+Curseforge:
+<br>
+https://www.curseforge.com/minecraft/mc-mods/new-potions-and-effects
 <br>
 
 ## License
